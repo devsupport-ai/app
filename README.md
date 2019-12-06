@@ -4,23 +4,23 @@
 
 [![Build Status](https://travis-ci.org/artpar/devsupport.svg?branch=master)](https://travis-ci.org/artpar/devsupport)
 
-#### Build Setup
+## Build Setup
 
 ``` bash
-# install dependencies
+### install dependencies
 npm install
 
-# serve with hot reload at localhost:9080
+### serve with hot reload at localhost:9080
 npm run dev
 
-# build electron application for production
+### build electron application for production
 npm run build
 
-# run unit & end-to-end tests
+### run unit & end-to-end tests
 npm test
 
 
-# lint all JS/Vue component files in `src/`
+### lint all JS/Vue component files in `src/`
 npm run lint
 
 ```
