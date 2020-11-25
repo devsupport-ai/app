@@ -170,6 +170,10 @@ ansi-styles@^3.1.0:
   dependencies:
     color-convert "^1.0.0"
 
+antlr4@^4.7.0:
+  version "4.9.0"
+  resolved "https://registry.yarnpkg.com/antlr4/-/antlr4-4.9.0.tgz#ee779d69acc702f5d836d5d02a51c7798f44e523"
+
 anymatch@^1.3.0:
   version "1.3.0"
   resolved "https://registry.yarnpkg.com/anymatch/-/anymatch-1.3.0.tgz#a3e52fa39168c825ff57b0248126ce5a8ff95507"
@@ -3970,8 +3974,8 @@ header-case@^1.0.0:
     upper-case "^1.1.3"
 
 highlight.js@^9.3.0:
-  version "9.12.0"
-  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-9.12.0.tgz#e6d9dbe57cbefe60751f02af336195870c90c01e"
+  version "9.18.5"
+  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-9.18.5.tgz#d18a359867f378c138d6819edfc2a8acd5f29825"
 
 hmac-drbg@^1.0.0:
   version "1.0.1"
@@ -4580,6 +4584,10 @@ js-beautify@^1.6.3:
     editorconfig "^0.13.2"
     mkdirp "~0.5.0"
     nopt "~3.0.1"
+
+js-sha512@^0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/js-sha512/-/js-sha512-0.5.0.tgz#34fff16a5fc4026afde0392648ab8ddefe80fad2"
 
 js-string-escape@~1.0.0:
   version "1.0.1"
